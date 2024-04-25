@@ -1,0 +1,73 @@
+
+form{
+    width:30%;
+    height: 100%;
+    margin: auto; 
+    margin-top: 50px;
+    /* background: linear-gradient(red,pink,white); */
+}
+
+fieldset{
+    background: linear-gradient(red,rgb(229, 181, 77),white);
+}
+h2{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+
+
+.registration{
+    width: 50%;
+    height: 320px;
+    margin-left: 40px;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+label{
+    font-size: 20px;
+}
+
+.box{
+    margin-top: 40px;
+}
+
+button{
+    width:130px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 220px;
+    margin-bottom: 50px;
+    background-color: blue;
+    color: aqua;
+    font-size: 20px;
+    border-color: white;
+}
+    
+/* @media only screen and (max-width:1730px){
+    form{
+        width:20%;
+        height: 200%;
+        margin:auto;
+
+    }
+    .registration{
+        width: 60%;
+        height: 400px;
+        margin-right: 40px;
+    }
+
+    input{
+        width: 300px;
+        height: 30px;
+        margin-top: 10px;
+    }
+
+
+
+} */
